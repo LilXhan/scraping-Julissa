@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Ministère public",
+    "description": "En tant qu’autorité de poursuite pénale, le Ministère public est chargé de conduire l’enquête préliminaire et de superviser l’action de la police, puis de soutenir l’accusation lors du procès. Il est responsable de l’exercice uniforme de l’action publique, le procureur général définissant à cette fin la politique de poursuite des infractions pénales."
+  },
+  {
+    "title": "Tribunal civil",
+    "description": "Le Tribunal civil statue sur les procédures civiles en tant qu'autorité cantonale de première instance. Il se compose du Tribunal de première instance, du Tribunal des baux et loyers et de la Commission de conciliation en matière de baux et loyers."
+  },
+  {
+    "title": "Tribunal de première instance",
+    "description": "Le Tribunal de première instance est compétent pour tous les actes de la juridiction civile contentieuse ou non contentieuse que la loi n'attribue pas à une autre autorité judiciaire ou administrative. Il statue sur des demandes en matière civile et commerciale opposant des personnes physiques ou morales (particuliers, sociétés, etc.)."
+  },
+  {
+    "title": "Tribunal des baux et loyers",
+    "description": "Le Tribunal des baux et loyers est un tribunal spécialisé qui intervient dans le cadre de litiges en matière de contrat de bail à loyer ou de contrat de bail à ferme non agricole, portant sur une chose immobilière."
+  },
+  {
+    "title": "Commission de conciliation en matière de baux et loyers",
+    "description": "La Commission de conciliation en matière de baux et loyers intervient dans le cadre de litiges relatifs à un contrat de bail à loyer ou de bail à ferme non agricole, portant sur une chose immobilière. Elle a pour vocation de permettre aux parties de trouver un accord avant que l’affaire ne soit, en cas d'échec de la tentative de conciliation, portée au Tribunal des baux et loyers."
+  },
+  {
+    "title": "Tribunal pénal",
+    "description": "Le Tribunal pénal statue sur les procédures pénales en tant qu'autorité cantonale de première instance."
+  },
+  {
+    "title": "Tribunal des mesures de contrainte",
+    "description": "Le Tribunal des mesures de contrainte ordonne ou autorise les mesures de contraintes sollicitées par le Ministère public qui ont pour but de mettre des preuves en sûreté, assurer la présence de la personne prévenue durant la procédure et garantir l'exécution de la décision finale."
+  },
+  {
+    "title": "Tribunal de police",
+    "description": "Le Tribunal de police est compétent pour juger des infractions pour lesquelles le Ministère public entend requérir une amende, une peine pécuniaire ou une peine privative de liberté de 2 ans maximum."
+  },
+  {
+    "title": "Tribunal correctionnel",
+    "description": "Le Tribunal correctionnel est compétent pour juger des infractions à propos desquelles le Ministère public entend requérir une peine privative de liberté supérieure à 2 ans, mais ne dépassant pas 10 ans."
+  },
+  {
+    "title": "Tribunal criminel",
+    "description": "Le Tribunal criminel juge les infractions pour lesquelles le Ministère public entend requérir une peine privative de liberté supérieure à 10 ans. Tel est surtout le cas en matière de meurtre et d'assassinat."
+  },
+  {
+    "title": "Tribunal d'application des peines et des mesures",
+    "description": "Le Tribunal d’application des peines et des mesures est compétent pour statuer dans toutes les procédures postérieures à un jugement pénal."
+  },
+  {
+    "title": "Tribunal de protection de l'adulte et de l'enfant",
+    "description": "Le Tribunal de protection de l'adulte et de l'enfant veille à la protection des personnes tout au long de leur vie, de l’enfance à l’âge adulte jusqu’à leur succession. Il intervient lorsqu’aucune solution satisfaisante pour la personne concernée n’a pu être trouvée dans le cadre familial, auprès des proches ou de toute autre institution pouvant lui apporter de l’aide."
+  },
+  {
+    "title": "Tribunal des prud'hommes",
+    "description": "Le Tribunal des prud’hommes traite des litiges découlant d’un contrat de travail de droit privé. Il peut être saisi pour des conflits intervenant durant la période de recrutement, comme au cours ou à l’issue de la relation de travail."
+  },
+  {
+    "title": "Tribunal des mineurs",
+    "description": "Le Tribunal des mineurs est la juridiction chargée de la poursuite et du jugement des infractions commises par les personnes âgées entre 10 et 18 ans au moment de l'acte. Il est également responsable de l'exécution des sanctions prononcées (peines et mesures de protection à but éducatif et/ou thérapeutique selon le droit pénal des mineurs (art. 12 à 15 DPMin)) à leur égard."
+  },
+  {
+    "title": "Tribunal administratif de première instance",
+    "description": "Le Tribunal administratif de première instance tranche les litiges de droit public. Il statue en premier ressort sur les recours dirigés contre les décisions d’autorités administratives, cantonales ou communales, lorsque la loi prévoit sa compétence.\nSes principaux domaines de compétence sont le droit des constructions, le droit fiscal, le droit des étrangers et le droit de la circulation routière."
+  },
+  {
+    "title": "Cour de justice",
+    "description": "La Cour de justice est l’autorité d’appel et de recours de dernière instance cantonale contre les décisions rendues par les autorités de poursuite pénale et contre les jugements de première instance en matière pénale, civile et administrative.\nElle statue également en instance unique lorsque la loi le prévoit."
+  },
+  {
+    "title": "Chambre civile",
+    "description": "La chambre civile est l'une des 4 chambres de la cour civile de la Cour de justice. Elle est l'autorité de recours contre les décisions rendues par le Tribunal de première instance et la Justice de paix notamment en droit de la famille, droit des successions, etc. Elle est également l'autorité chargée de prononcer l'adoption."
+  },
+  {
+    "title": "Chambre des baux et loyers",
+    "description": "La chambre des baux et loyers est l'une des 4 chambres de la cour civile de la Cour de justice. Elle est l'autorité de recours contre les jugements du Tribunal des baux et loyers et de la Commission de conciliation en matière de baux et loyers."
+  },
+  {
+    "title": "Chambre des prud'hommes",
+    "description": "La chambre des prud'hommes est l'une des 4 chambres de la Cour de justice. Elle est l'autorité de recours contre les jugements du Tribunal des prud'hommes et des décisions des juges conciliatrices ou conciliateurs prud'hommes dans les litiges concernant un contrat de travail."
+  },
+  {
+    "title": "Chambre de surveillance",
+    "description": "La chambre de surveillance est l'une des 4 chambres de la cour civile de la Cour de justice. Elle est l'autorité de surveillance et de recours contre les décisions du Tribunal de protection de l'adulte et de l'enfant (TPAE), du registre foncier et du registre de commerce. La chambre de surveillance (CSO) exerce une surveillance et reçoit les plaintes contre les offices de poursuites et de faillites."
+  },
+  {
+    "title": "Chambre pénale d'appel et de révision",
+    "description": "La chambre pénale d'appel et de révision est l'une des 2 chambres de la cour pénale de la Cour de justice."
+  },
+  {
+    "title": "Chambre pénale de recours",
+    "description": "La chambre pénale de recours est l'une des 2 chambres de la cour pénale de la Cour de justice."
+  },
+  {
+    "title": "Chambre constitutionnelle",
+    "description": "La chambre constitutionnelle contrôle sur recours la conformité des normes cantonales au droit supérieur. Elle traite les litiges relatifs à l’exercice des droits politiques en matière cantonale et communale et tranche les conflits de compétence entre autorités."
+  },
+  {
+    "title": "Chambre administrative",
+    "description": "Autorité supérieure de recours en matière administrative, la chambre administrative de la Cour de justice tranche, sur recours, les litiges survenant entre les différents services de l’Etat (ou des communes) et les particuliers."
+  },
+  {
+    "title": "Chambre des assurances sociales",
+    "description": "La chambre des assurances sociales statue sur les recours contre des décisions en matière d'assurances sociales ainsi que sur les demandes en paiement en matière de prévoyance professionnelle et d'assurances complémentaires à la loi portant sur l'assurance-maladie (LAMal - RS 832.10). Elle statue également sur les recours contre les jugements du Tribunal administratif de première instance en matière d'assurance complémentaire à l'assurance-accidents."
+  },
+  {
+    "title": "Tribunal arbitral (assurances sociales)",
+    "description": "Le Tribunal arbitral tranche les litiges entre assureur∙e∙s (assurance maladie et accidents) et prestataires (médecins, pharmacien∙ne∙s, hôpitaux, etc.). Il mène une procédure de conciliation et, en cas d’échec, il statue après avoir permis aux parties de s'expliquer."
+  },
+  {
+    "title": "Greffe de l'assistance juridique",
+    "description": "L'assistance juridique est une aide financière pouvant être accordée, sous conditions, aux personnes dont les ressources financières sont insuffisantes pour défendre leurs intérêts en justice. Le greffe de l'assistance juridique gère et coordonne l'ensemble des démarches relatives à cette prestation pour les procédures civiles et administratives (à l'exclusion des procédures pénales)."
+  },
+  {
+    "title": "Greffe des pièces à conviction",
+    "description": "Le greffe des pièces à conviction est l'entité responsable de gérer et de conserver les pièces à conviction prélevées dans le cadre de procédures pénales et qui lui sont confiées avec un inventaire dressé par la police ou par l'autorité pénale.\nIl est également en charge de l'exécution des décisions pénales pour ce qui a trait au sort réservé aux pièces à conviction à l'issue de la procédure."
+  },
+  {
+    "title": "Greffe des traductions et interprétations",
+    "description": "Le greffe des traductions et interprétations a pour mission de mettre à disposition des juridictions et directions de support un pôle de compétence en matière de traduction et d'interprétation, de veiller à la bonne application du règlement sur les traductrices ou traducteurs et interprètes du Pouvoir judiciaire et enfin de tenir le registre des interprètes, traductrices ou traducteurs autorisé∙e∙s à fournir leurs prestations, dans le cadre de procédures judiciaires."
+  },
+  {
+    "title": "Greffe universel",
+    "description": "Le greffe universel est un espace d'accueil à destination des avocat·e·s, des justiciables et du public. Situé à l'entrée du Palais de justice, il vise à faciliter les démarches des justiciables et des avocat·e·s, ainsi que la communication entre ces dernier·ère·s et l'ensemble des tribunaux et services du Pouvoir judiciaire."
+  }
+]
