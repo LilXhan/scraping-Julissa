@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "puppeteer": "^14.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.18.0"
   }
 }
